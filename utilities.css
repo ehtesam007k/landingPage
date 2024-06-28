@@ -1,0 +1,131 @@
+
+.heightOfScreen{
+    min-height: 100vh;
+}
+
+.bg-red{
+    background-color: red;
+}
+
+.blue-text{
+    color: rgb(53, 109, 230);
+}
+
+.blue-text2{
+    color: rgb(17, 60, 153);
+}
+
+.light-white-text{
+    color: rgba(66, 65, 65, 0.8);
+}
+
+.margin-auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.flex{
+    display: flex;
+}
+
+.center-Items{
+    align-items: center;
+}
+
+.justify-center{
+justify-content: center;
+}
+
+.justify-between{
+    justify-content: space-between;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.font-bold{
+    font-weight: bold;
+}
+.font-bolder{
+    font-weight: bolder;
+}
+
+.my-margin1{
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+.my-margin2{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+
+.my-padding1{
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.btn{
+    padding: 5px 5px;
+    color: white;
+    font-weight: 500;
+    background-color: rgb(65, 130, 227);
+    border: 2px solid whitesmoke;
+    border-radius: 7px;
+    cursor: pointer;
+}
+
+.header_list-cursor{
+    cursor: pointer;
+}
+
+.gym-img {
+    /* width: 100%; /* Adjust the width as needed */
+    /*height: auto; /* Maintain aspect ratio */
+   /* max-width: 400px; Optional: Set a maximum width */
+    /* Alternatively, you can set specific width and height like below */
+    width: 300px;
+    height: auto;
+    margin-top: 35px;   
+    margin-left: 20%;
+    margin-bottom: 100px;
+}
+
+.dumbbelimg{
+    width: 200px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.center-text1{
+    text-align: center;
+}
+
+.center-text2{
+    text-align: center;
+    font-size: 30px;
+}
+
+.box{
+    margin: 20px 15px;
+    padding: 9px 0px;
+    min-width: 20vw;
+    border: 2px solid rgb(127, 182, 241);
+    border-radius: 5px;
+    text-align: center;
+}
+
+.box h2{
+    font-size: 1.5rem;
+    padding: 12px 0px;
+}
+
+.box ul{
+    list-style-type: none;
+}
+
+.box ul li{
+    margin: 10px 2px;
+}
